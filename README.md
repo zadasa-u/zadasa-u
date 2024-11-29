@@ -14,3 +14,6 @@ Actualmente estudio **Ingeniería en Computación** en Misiones, Argentina. Me e
 
 - [IoT en colmenas Yateí](https://github.com/zadasa-u/monitoreo-yatei)  
   Proyecto de IoT con ESP32 para monitorear temperatura y humedad en colmenas de abejas Yateí (*Tetragonisca angustula*). Incluye envío de datos por MQTT y almacenamiento en Raspberry Pi.
+  
+- [Termostato con ESP32](https://github.com/zadasa-u/termostato-esp32-iot2023)
+  Termostato implementado con un ESP32, con envío de datos por MQTT a servidor.
