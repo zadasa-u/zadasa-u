@@ -2,7 +2,7 @@
 <div align="center">
   <img src="recursos/header.jpg" alt="Header Image" width="100%" />
   <h1>¡Hola! Mi nombre es Sandro Daniel Zakowicz 👨‍💻</h1>
-  <p>Un estudiante de Ingeniería en Computación apasionado por resolver problemas con tecnología.</p>
+  <p>Ingeniero en Computación apasionado por resolver problemas con tecnología.</p>
 </div>
 
 <!-- Sección Acerca de mí -->
