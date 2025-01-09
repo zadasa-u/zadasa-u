@@ -8,7 +8,7 @@
 <!-- Sección Acerca de mí -->
 ## 📖 Acerca de mí
 
-Actualmente soy estudiante avanzado de **Ingeniería en Computación** en Misiones, Argentina. Me encanta aprender y aplicar conocimientos para desarrollar soluciones prácticas, especialmente en áreas relacionadas con **aprendizaje automático, análisis de datos, procesamiento de señales, desarrollo de aplicaciones móviles y de escritorio** y **bases de datos**.
+Soy un **Ingeniero en Computación** y resido en Misiones, Argentina. Me encanta aprender y aplicar conocimientos para desarrollar soluciones prácticas, especialmente en áreas relacionadas con **aprendizaje automático, análisis de datos, procesamiento de señales, desarrollo de aplicaciones móviles y de escritorio** y **bases de datos**.
 
 ### Lenguajes de programación:
 - **Python**: Desarrollo de aplicaciones, análisis de datos, procesamiento de señales e imagen.
