@@ -37,6 +37,7 @@ Soy un **Ingeniero en Computación** y resido en Misiones, Argentina. Me encanta
 
 ## 📫 Contacto
 - [LinkedIn](https://linkedin.com/in/sandro-daniel-zakowicz-589a98265)
+- [Correo](sandrodanielzakowicz@gmail.com)
 
 ---
 
