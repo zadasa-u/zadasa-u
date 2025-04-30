@@ -1,37 +1,40 @@
 <!-- Encabezado -->
 <div align="center">
   <img src="recursos/header.jpg" alt="Header Image" width="100%" />
-  <h1>¡Hola! Mi nombre es Sandro Daniel Zakowicz 👨‍💻</h1>
-  <p>Ingeniero en Computación apasionado por resolver problemas con tecnología.</p>
+  <h1>¡Hola! Soy Sandro Daniel Zakowicz 👨‍💻</h1>
+  <p>Ingeniero en Computación enfocado en Ciencia de Datos y soluciones basadas en análisis inteligente.</p>
 </div>
 
-<!-- Sección Acerca de mí -->
-## 📖 Acerca de mí
+---
+## 📊 Acerca de mí
 
-Soy un **Ingeniero en Computación** y resido en Misiones, Argentina. Me encanta aprender y aplicar conocimientos para desarrollar soluciones prácticas, especialmente en áreas relacionadas con **aprendizaje automático, análisis de datos, procesamiento de señales, desarrollo de aplicaciones móviles y de escritorio** y **bases de datos**.
+Soy un **Ingeniero en Computación** de Misiones, Argentina, con especialización en **Data Science**. Me apasiona transformar datos en conocimiento accionable mediante el uso de modelos predictivos, visualización clara y análisis profundo.
 
-### Lenguajes de programación:
-- **Python**: Desarrollo de aplicaciones, análisis de datos, procesamiento de señales e imagen.
-- **C/C++**: Algoritmos, estructuras de datos, programación de sistemas.
-- **Assembler**: Programación de microcontroladores.
+Mi enfoque actual está en:
+- Análisis exploratorio y visualización de datos
+- Modelado de datos y machine learning con Python
+- Automatización de procesos de análisis
+- Comunicación efectiva de hallazgos
 
-### Programación de microcontroladores:
-- **Arduino UNO y MEGA**: Empleando tanto Assembler como C.
-- **ESP32**: Empleando Micro Python.
-
-### Desarrollo de Software:
-- **Desarrollo móvil**: Experiencia en el desarrollo de aplicaciones Android con el framework Kivy.
-- **Bases de datos**: Diseño y modelado, conexión a bases SQL desde aplicaciones.
-- **Desarrollo de aplicaciones de escritorio** multiplataforma con PySide6.
-- **Desarrollo de APIs** con Django REST Framework
+También tengo experiencia en áreas complementarias como:
+- Desarrollo de APIs y aplicaciones con Python
+- Programación de microcontroladores y proyectos IoT
+- Desarrollo de software multiplataforma
 
 ---
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 - [IoT en colmenas Yateí](https://github.com/zadasa-u/monitoreo-yatei): Proyecto de IoT con ESP32 para monitorear temperatura y humedad en colmenas de abejas Yateí (*Tetragonisca angustula*). Incluye envío de datos por MQTT y almacenamiento en Raspberry Pi.
   
 - [Termostato con ESP32](https://github.com/zadasa-u/termostato-esp32-iot2023): Termostato implementado con un ESP32, con envío de datos por MQTT a servidor.
+
+> Estoy trabajando actualmente en proyectos de análisis de datos que compartiré pronto. ¡Stay tuned!
+
+---
+## 🎯 Objetivo profesional
+
+Busco oportunidades donde pueda aportar valor aplicando **Data Science** a problemas reales, especialmente en los campos de energía, medio ambiente, salud o negocios. Me motiva desarrollar soluciones prácticas, sostenibles y éticas.
 
 ---
 
@@ -41,4 +44,5 @@ Soy un **Ingeniero en Computación** y resido en Misiones, Argentina. Me encanta
 
 ---
 
-<p align="center">⭐ Si te gusta mi trabajo, ¡no olvides dejar una estrella! ⭐</p>
+<p align="center">⭐ Si te interesa colaborar o querés dejar tu apoyo, ¡no olvides dejar una estrella! ⭐</p>
+
