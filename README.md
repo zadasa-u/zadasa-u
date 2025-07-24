@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <div align="center">
-  <img src="recursos/header.jpg" alt="Header Image" width="100%" />
+  <img src="recursos/header.png" alt="Header Image" width="100%" />
   <h1>¡Hola! Soy Sandro Daniel Zakowicz 👨‍💻</h1>
   <p>Ingeniero en Computación enfocado en Ciencia de Datos y soluciones basadas en análisis inteligente.</p>
 </div>
